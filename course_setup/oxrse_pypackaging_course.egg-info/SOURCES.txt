@@ -1,0 +1,9 @@
+setup.py
+checkpoints/__init__.py
+checkpoints/checkpoints.py
+oxrse_pypackaging_course.egg-info/PKG-INFO
+oxrse_pypackaging_course.egg-info/SOURCES.txt
+oxrse_pypackaging_course.egg-info/dependency_links.txt
+oxrse_pypackaging_course.egg-info/entry_points.txt
+oxrse_pypackaging_course.egg-info/requires.txt
+oxrse_pypackaging_course.egg-info/top_level.txt

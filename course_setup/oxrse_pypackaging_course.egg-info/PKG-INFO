@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: oxrse-pypackaging-course
+Version: 0.1
+Home-page: https://github.com/OxfordRSE/python-packaging-course
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: setuptools
+Requires-Dist: scipy
+Dynamic: home-page
+Dynamic: requires-dist
